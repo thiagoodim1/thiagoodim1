@@ -1,12 +1,19 @@
-QA Jr | Salesforce | Testes Manuais & War Room | Estudando Automação (Playwright + TS) | PCD | ADS Estácio 2025
+# Thiago Marcel Odim 🚀
+**QA Junior | Analista de Testes | Estudante de ADS**
 
-🛠️ No que estou trabalhando hoje:
-QA & Testes: Execução de testes de regressão, re-testes e participação em War Rooms para acompanhamento de deploys críticos.
-Tecnologias de Suporte: Utilização diária de Jira, ALM Octane, ServiceNow e Postman para validação de APIs.
-Bancos de Dados: Consultas e validação de massa de dados utilizando MySQL.
+---
 
-🚀 O que estou estudando:Automação de Testes: 
-Atualmente focado no aprendizado de Playwright com TypeScript, buscando transicionar processos manuais para fluxos automatizados eficientes.
-Linguagens: Aprimorando conhecimentos em Java, Python e agora TypeScript para fortalecer minha base técnica em automação.
+### 🛠️ Tecnologias e Ferramentas
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-🎓 Formação:Cursando Análise e Desenvolvimento de Sistemas pela Faculdade Estácio de Sá (Conclusão: Outubro de 2025).
+* **QA & Testes:** Execução de testes de regressão, re-testes e participação em **War Rooms**.
+* **Gestão:** Homologação de **User Stories (US)** e controle de defeitos via **Octane** e **ServiceNow**.
+
+### 🚀 O que estou aprendendo agora
+* **Automação:** Playwright com TypeScript.
+* **Linguagens:** Java e Python.
+
+### ♿ Informações Adicionais (PCD)
+* Candidato PCD (Lesão ligamentar joelho esquerdo - CID M17.3).
+
+---
