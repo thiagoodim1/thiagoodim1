@@ -4,16 +4,18 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
 
-* **QA & Testes:** Execução de testes de regressão, re-testes e participação em **War Rooms**.
-* **Gestão:** Homologação de **User Stories (US)** e controle de defeitos via **Octane** e **ServiceNow**.
+* **QA & Testes:** Testes manuais em Salesforce, regressão, re-testes e participação em **War Rooms**.
+* **Gestão:** Homologação de **User Stories (US)**, acompanhamento de deploys e controle de bugs via **Octane** e **Jira**.
+* **APIs & Dados:** Validação de endpoints via **Postman** e consultas em banco de dados **MySQL**.
 
 ### 🚀 O que estou aprendendo agora
 * **Automação:** Playwright com TypeScript.
-* **Linguagens:** Java e Python.
+* **Linguagens:** Java e TypeScript.
 
 ### ♿ Informações Adicionais (PCD)
-* Candidato PCD (Lesão ligamentar joelho esquerdo - CID M17.3).
+* [cite_start]**Condição:** Lesão traumática ligamentar (joelho esquerdo) com sequela definitiva e hipotrofia de membro. 
+* [cite_start]**CIDs:** M17.3, M23.5, M93.5. 
 
 ---
