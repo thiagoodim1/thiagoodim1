@@ -6,7 +6,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
 
-* **QA & Testes:** Testes manuais em Salesforce, regressão, re-testes e participação em **War Rooms**.
+* **QA & Testes:** Atualmente na empresa **Spread Automação e Tecnologia**, atuando com testes manuais em Salesforce, regressão, re-testes e participação em **War Rooms**.
 * **Gestão:** Homologação de **User Stories (US)**, acompanhamento de deploys e controle de bugs via **Octane** e **Jira**.
 * **APIs & Dados:** Validação de endpoints via **Postman** e consultas em banco de dados **MySQL**.
 
