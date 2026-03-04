@@ -12,7 +12,7 @@
 
 ### 🚀 O que estou aprendendo agora
 * **Automação:** Playwright com TypeScript.
-* **Linguagens:** Java e TypeScript.
+* **Linguagens:** Java, Python e TypeScript.
 
 ### ♿ Informações Adicionais (PCD)
 * [cite_start]**Condição:** Lesão traumática ligamentar (joelho esquerdo) com sequela definitiva e hipotrofia de membro. 
