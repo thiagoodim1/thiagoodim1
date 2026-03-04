@@ -15,7 +15,7 @@
 * **Linguagens:** Java, Python e TypeScript.
 
 ### ♿ Informações Adicionais (PCD)
-* [cite_start]**Condição:** Lesão traumática ligamentar (joelho esquerdo) com sequela definitiva e hipotrofia de membro. 
-* [cite_start]**CIDs:** M17.3, M23.5, M93.5. 
+* **Condição:** Lesão traumática ligamentar (joelho esquerdo) com sequela definitiva e hipotrofia de membro.
+* **CIDs:** M17.3, M23.5 e M93.5.
 
 ---
