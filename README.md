@@ -14,6 +14,9 @@
 * **Automação:** Playwright com TypeScript.
 * **Linguagens:** Java, Python e TypeScript.
 
+* ### 🎓 Formação
+* **Análise e Desenvolvimento de Sistemas** - Faculdade Estácio de Sá (Concluído em Outubro de 2025).
+
 ### ♿ Informações Adicionais (PCD)
 * **Condição:** Lesão traumática ligamentar (joelho esquerdo) com sequela definitiva e hipotrofia de membro.
 * **CIDs:** M17.3, M23.5 e M93.5.
