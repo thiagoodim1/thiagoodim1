@@ -4,4 +4,4 @@ QA Jr | Salesforce | Testes Manuais & War Room | Estudando Automação (Playwrig
 
 🚀 O que estou estudando:Automação de Testes: Atualmente focado no aprendizado de Playwright com TypeScript, buscando transicionar processos manuais para fluxos automatizados eficientes.Linguagens: Aprimorando conhecimentos em Java, Python e agora TypeScript para fortalecer minha base técnica em automação.
 
-🎓 Formação:Cursando Análise e Desenvolvimento de Sistemas pela Faculdade Estácio de Sá (Previsão de conclusão: Outubro de 2025).
+🎓 Formação:Cursando Análise e Desenvolvimento de Sistemas pela Faculdade Estácio de Sá (Conclusão: Outubro de 2025).
