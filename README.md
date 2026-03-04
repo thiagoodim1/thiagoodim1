@@ -14,7 +14,7 @@
 * **Automação:** Playwright com TypeScript.
 * **Linguagens:** Java, Python e TypeScript.
 
-* ### 🎓 Formação
+### 🎓 Formação
 * **Análise e Desenvolvimento de Sistemas** - Faculdade Estácio de Sá (Concluído em Outubro de 2025).
 
 ### ♿ Informações Adicionais (PCD)
